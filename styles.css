@@ -1,0 +1,44 @@
+body{
+     
+	background: url("img/backgroundPic.jpg") no-repeat center center fixed;
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+
+}
+
+#active{
+	color: black;
+	background-color: purple;
+	border: black;
+}
+#jumbo{
+	
+	color: white;
+	background-color: purple;
+	border: black;
+}
+
+
+#ct{
+	color: white;
+}
+#nonactive{
+	color:white;
+
+}
+#mail{
+	 height: 10%;
+  width: 10%;
+}
+#divxyz{
+	margin-bottom: 75px;
+}
+#resume{
+	height: 100%;
+  width: 75%;
+}
+#me{
+	height: 250px;
+  width: 350px;
+}
